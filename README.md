@@ -216,6 +216,3 @@ See: `CONTRIBUTING.md`
 > If people follow you, that is consent.
 > If they don’t, you never had power.”
 
----
-
-Chỉ cần nói: **“next: …”**
