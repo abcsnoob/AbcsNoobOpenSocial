@@ -215,4 +215,6 @@ See: `CONTRIBUTING.md`
 > “If you want to control it, you must fork it.
 > If people follow you, that is consent.
 > If they don’t, you never had power.”
-
+---
+## Star History
+[![Star History Chart](https://api.star-history.com/svg?repos=abcsnoob/AbcsNoobOpenSocial&type=date&legend=top-left)](https://www.star-history.com/#abcsnoob/AbcsNoobOpenSocial&type=date&legend=top-left)
